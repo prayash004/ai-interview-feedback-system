@@ -15,10 +15,7 @@ const HomePage = () => {
             <span className=" text-outline font-extrabold md:text-8xl">
               MockMate AI
             </span>
-            {/* <span className="text-gray-500 font-extrabold">
-              - A better way to
-            </span> */}
-            
+
             <h3 className="text-2xl mt-4">A better way to improve your interview chances and skills</h3> 
           </h2>
 
